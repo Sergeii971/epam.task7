@@ -1,3 +1,5 @@
+package com.verbovskiy.task7.main;
+
 import java.util.Locale;
 import java.util.ResourceBundle;
 import java.util.Scanner;
